@@ -9,6 +9,7 @@ No arquivo script.js
         fetch('http://localhost:3000/products'). O que é esse fetch? Para que serve?
 7) No fetch, tem .then e .catch. O que é isso? Explique.
 8) Explique a function addProductToTable(product) {. Prepare-se para fazer um teste de mesa demonstrando seu funcionamento. Onde esse função é chamada?
+resposta do hugo
 9) Na função addProductToTable, tem um querySelecto. O que é isso? Para que serve?
 10) Na função createProduct, tem um body: JSON.stringfy(product). O que isso faz?
 11) Na função createProduto, tem .catch(error => console.error('Erro ao criar produto:', error)); Onde vai printar essa mensagem de erro? Explique.
